@@ -4,7 +4,7 @@
 A modern and sleek music streaming web application for discovering, playing, and managing your favorite tracks — with built-in chat to connect with others and see what they're listening to in real time.
 
 
-[Tuneify Banner](./frontend/public/banner.png) 
+![Tuneify Banner](/frontend/public/banner.png) 
 
 ---
 
