@@ -34,32 +34,32 @@ A modern and sleek music streaming web application for discovering, playing, and
 
 ### 1. Clone the repository
 
-\`\`\`bash
+```bash
 git clone https://github.com/iamprakhar27/Tuneify.git
 cd Tuneify
-\`\`\`
+```
 
 ### 2. Install dependencies
 
 #### For client:
 
-\`\`\`bash
+```bash
 cd client
 npm install
-\`\`\`
+```
 
 #### For server:
 
-\`\`\`bash
+```bash
 cd ../server
 npm install
-\`\`\`
+```
 
 ### 3. Environment Variables
 
 Create a \`.env\` file in the \`server\` directory and add:
 
-\`\`\`env
+```env
 PORT=your port number
 
 MONGO_URI=your_mongodb_connection_string
@@ -72,22 +72,22 @@ ADMIN_EMAIL=
 CLOUDINARY_CLOUD_NAME= 
 CLOUDINARY_API_KEY= 
 CLOUDINARY_API_SECRET=
-\`\`\`
+```
 
 ### 4. Run the project
 
 #### Start backend:
 
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 #### Start frontend:
 
-\`\`\`bash
+```bash
 cd ../client
 npm run dev
-\`\`\`
+```
 
 ---
 
