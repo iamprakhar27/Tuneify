@@ -25,7 +25,7 @@ A modern and sleek music streaming web application for discovering, playing, and
 |React + TypeScript | Node.js        | MongoDB      | Tailwind CSS        |
 | React Router DOM  | Express.js     | Mongoose     | Clerk Auth          |
 | Axios             | Socket.IO      |              | Vite                |
-| Zustand           |                |              |                     |
+| Zustand           |                |              | ShadCn UI           |
 
 ---
 
